@@ -1,0 +1,41 @@
+.link {
+  color: white;
+}
+.link:hover {
+  color: yellow;
+}
+.table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th {
+  background-color: gold;
+}
+.circle-image {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.circle-image1 {
+  border-radius: 45%;
+  width: 200px;
+  height: 200px;
+}
+.circle-image2 {
+  border-radius: 45%;
+  width: 200px;
+  height: 200px;
+}
+.circle-image3 {
+  border-radius: 45%;
+  width: 200px;
+  height: 200px;
+}
+.bg-secondary {
+  background-color: #ffa500;
+}
+div1 {
+  margin-right: 100px;
+  padding-top: 20px;
+  padding-right: 25px;
+  padding-bottom: 35px;
+  padding-left: 30px;
+  text-align: center;
+}
